@@ -1,2 +1,2 @@
 # tabs-manager
-Extension to helping manage tabs
+Extension is helping manage tabs
